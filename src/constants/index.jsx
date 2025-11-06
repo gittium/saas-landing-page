@@ -3,8 +3,8 @@ export const features = [
       id: "0",
       icon: "/images/feature-1.png",
       caption: "Easy integration",
-      title: "Work smarter not harder",
-      text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+      title: "สวัสดีวันจันทร์",
+      text: "ขอให้สุขภาพเเข็งเเรง",
       button: {
         icon: "/images/magictouch.svg",
         title: "Watch the demo",
